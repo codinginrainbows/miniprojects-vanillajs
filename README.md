@@ -38,8 +38,8 @@ To begin, these are small applications built making use of only HTML5, CSS3 and 
 
 ## :rocket: Technologies
 
-  ✔️ HTML5 <br>
-  ✔️ CSS3 <br>
+  ✔️ HTML 5 <br>
+  ✔️ CSS 3 <br>
   ✔️ JavaScript<br>
   
 ## :man_technologist: Developers
