@@ -4,7 +4,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=BLUE&style=for-the-badge"/>
 </p>
 
-To begin, these are small applications built making use of only HTML5, CSS3 and vanilla JavaScript. Equally important, the main goal right here was to practice the JavaScript fundamentals by creating functionalities within the miniprojects. Last but not least, all the app ideas were taken from Brad Traversy's course in collaboration with Florin Pop.
+To begin, these are small applications built making use of only HTML5, CSS3 and vanilla JavaScript. Equally important, the main goal right here was to practice the JavaScript fundamentals by creating functionalities within the projects. Last but not least, all the app ideas were taken from Brad Traversy's course in collaboration with Florin Pop.
 
 ## :file_folder: 7 Examples
 * [Password Generator](#camera-password-generator)
