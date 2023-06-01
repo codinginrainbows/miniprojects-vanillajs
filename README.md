@@ -13,7 +13,6 @@ To begin, these are small applications built making use of only HTML5, CSS3 and 
 * [Split Page](#camera-split-page)
 * [Web Quiz](#camera-web-development-quiz)
 * [Image Grid](#camera-random-image-grid)
-* [Movie Searcher](#camera-movie-searcher)
 
 ## :camera: Password Generator
 ![passwordGen](https://user-images.githubusercontent.com/82886646/157530231-6f5604a3-e854-4f7b-9376-65b42f8ebacf.gif)
@@ -32,9 +31,6 @@ To begin, these are small applications built making use of only HTML5, CSS3 and 
 
 ## :camera: Random Image Grid
 ![randomImg](https://user-images.githubusercontent.com/82886646/157530751-7f6dd53b-f5cf-4dd8-86e9-f1ae61989c3a.gif)
-
-## :camera: Movie Searcher
-![film](https://user-images.githubusercontent.com/82886646/157530826-32e33176-c8ba-4ad5-afb6-813a972991f5.gif)
 
 ## :rocket: Technologies
 
